@@ -1,0 +1,10 @@
+hparams: !!python/object:argparse.Namespace
+  encoder_learning_rate: 1.0e-05
+  gradient_checkpointing: true
+  gradient_clipping: 1.0
+  learning_rate: 9.0e-05
+  max_length: 1024
+  model_name: facebook/esm2_t6_8M_UR50D
+  nr_frozen_epochs: 0
+  num_classes: 427
+  weight_decay: 0.0

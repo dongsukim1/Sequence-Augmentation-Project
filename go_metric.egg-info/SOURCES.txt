@@ -1,0 +1,16 @@
+setup.py
+go_bench/__init__.py
+go_bench/data_split.py
+go_bench/downloads.py
+go_bench/example.py
+go_bench/load_tools.py
+go_bench/metrics.py
+go_bench/neggoa.py
+go_bench/pipeline.py
+go_bench/processing.py
+go_bench/setup.py
+go_bench/utils.py
+go_metric.egg-info/PKG-INFO
+go_metric.egg-info/SOURCES.txt
+go_metric.egg-info/dependency_links.txt
+go_metric.egg-info/top_level.txt
